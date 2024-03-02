@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="uft-8">
+        <meta name="viewport" content="with=device-width">
+        <title>My Webpage</title>
+        <style>
+            img {
+                width: 150px;
+                border: 70px;
+                float: left;
+                margin-right: 10px
+                }
+
+            .username {
+                font-weight: bold;
+                     }
+        </style>
+    </head>
+
+    <body>
+        <img src="images/Screenshot 2023-12-14 184400.png" alt="profile picture">
+        <p class="username">@Chrismonaic</p>
+        <p>Guess What? I love to learn Html</p>
+    </body>
+
+</html>
